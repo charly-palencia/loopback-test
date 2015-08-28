@@ -34,6 +34,6 @@ model.js it is where we gonna add ours new remote method. In other words, you cr
 No Console
 
 ##Updated Aug 28
-  * I found one (https://github.com/GovRight/loopback-console) but it’s still immature. We could based on this one to create a my console library  :)
+  * I found one (https://github.com/GovRight/loopback-console) but it’s still immature. We could based on this one to create   console library  :)
   
-  * We have to create  a setup db file to migrate or create data tables
+  * We have to create  a setup db file to migrate or create data tables(argh)
